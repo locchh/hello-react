@@ -8,6 +8,7 @@
 ## Related to
 
 - [react.dev](https://react.dev/) — React itself (what you're using now)
+- [vuejs](https://vuejs.org/) — Vue is an HTML-templated framework with built-in automatic updates, while React is a minimalist, JSX-based library requiring manual state management and external tools.
 - [vite.dev](https://vite.dev/) — build tool, commonly paired with React
 - [tailwindcss.com](https://tailwindcss.com/) — CSS utility framework, often used with React for styling
 - [nextjs.org](https://nextjs.org/) — React framework that adds SSR, routing, and more
